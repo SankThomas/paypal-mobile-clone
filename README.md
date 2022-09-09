@@ -1,5 +1,7 @@
 # About the repository
 
+![preview image](./splash-preview.png)
+
 A partial clone of the Paypal Android Mobile App with only the basic functionality to switch between pages using Tab and Stack Navigation - and built with React Native Expo.
 
 NOTE: This is not a replacement for the Paypal App.
