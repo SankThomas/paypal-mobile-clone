@@ -45,7 +45,16 @@ export default function Home() {
               </View>
             </View>
 
-            <View style={globals.card}>
+            <View
+              style={{
+                alignItems: "center",
+                elevation: 2,
+                backgroundColor: "white",
+                padding: 20,
+                borderRadius: 10,
+                marginBottom: 32,
+              }}
+            >
               <View>
                 <Text style={globals.heading2}>
                   Personalize payments with new stickers, emojis and more
