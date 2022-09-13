@@ -20,7 +20,7 @@ NOTE: This is not a replacement for the Paypal App.
 
 ## Issues
 
-1. I've updated the splash screen but for some reason it won't update in the app. If you're willing
+1. I've updated the splash screen but for some reason it won't update in the app. If you're willing, please test this app out for me and inform me of any bugs or suggestions to improve it.
 
 ### Contact The Developer
 
